@@ -1,0 +1,15 @@
+{
+  "name": "adapter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ricardo Conceição <ricardo220893@gmail.com> (https://github.com/rluisb)",
+  "license": "MIT",
+  "dependencies": {
+    "lokijs": "^1.5.7",
+    "lowdb": "^1.0.0"
+  }
+}
